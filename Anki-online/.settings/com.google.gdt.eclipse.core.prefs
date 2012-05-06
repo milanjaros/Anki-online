@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+jarsExcludedFromWebInfLib=D\:/Develop/J/eclipse/configuration/com.vaadin.integration.eclipse/download/gwt-dependencies/2.3.0/validation-api-1.0.0.GA-sources.jar|D\:/Develop/J/eclipse/configuration/com.vaadin.integration.eclipse/download/gwt-dependencies/2.3.0/validation-api-1.0.0.GA.jar|D\:/Develop/J/eclipse/configuration/com.vaadin.integration.eclipse/download/gwt-dev/2.3.0/gwt-dev.jar|D\:/Develop/J/eclipse/configuration/com.vaadin.integration.eclipse/download/gwt-user/2.3.0/gwt-user.jar
+warSrcDir=war
+warSrcDirIsOutput=true
